@@ -1,0 +1,6 @@
+{
+  "name": "Meme Trigger",
+  "description": "Create and customize memes instantly from interactive interface triggers and post them directly to a live social feed or user profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
